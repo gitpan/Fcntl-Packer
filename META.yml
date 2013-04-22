@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Fcntl-Packer
-version:            0.02
+version:            0.03
 abstract:           Build packed structures for passing into fcntl.
 author:
     - Salvador Fandino <sfandino@yahoo.com>
